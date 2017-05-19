@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Emoji Dictionary/AppDelegate.swift"
+            timestampString = "516880688.076567"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dictionary.AppDelegate.__deallocating_deinit"
+                  moduleName = "Emoji Dictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uurde/Desktop/udemy%20swift/Emoji%20Dictionary/Emoji%20Dictionary/AppDelegate.swift"
+                  timestampString = "516883498.140172"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dictionary.AppDelegate.init () -&gt; Emoji_Dictionary.AppDelegate"
+                  moduleName = "Emoji Dictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uurde/Desktop/udemy%20swift/Emoji%20Dictionary/Emoji%20Dictionary/AppDelegate.swift"
+                  timestampString = "516883498.141749"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dictionary.AppDelegate.__allocating_init () -&gt; Emoji_Dictionary.AppDelegate"
+                  moduleName = "Emoji Dictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uurde/Desktop/udemy%20swift/Emoji%20Dictionary/Emoji%20Dictionary/AppDelegate.swift"
+                  timestampString = "516883498.143335"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Emoji Dictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uurde/Desktop/udemy%20swift/Emoji%20Dictionary/Emoji%20Dictionary/AppDelegate.swift"
+                  timestampString = "516883498.145061"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Emoji Dictionary/ViewController.swift"
+            timestampString = "516883497.182117"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
